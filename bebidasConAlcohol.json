@@ -1,0 +1,5 @@
+[
+    { "id": 45, "bebida": "Cerveza", "precio": 170, "imagen": "https://th.bing.com/th/id/OIP.Xy9_F4uu4CI3upU_wnPyfAHaGL?pid=ImgDet&rs=1" },
+    { "id": 46, "bebida": "Vodka", "precio": 210, "imagen": "https://th.bing.com/th/id/OIP.eE3TAUqIciXDFYN3o0mgHwHaGq?pid=ImgDet&rs=1" },
+    { "id": 47, "bebida": "Champagne", "precio": 270, "imagen": "https://th.bing.com/th/id/OIP.Zhu5LV1SNKkwyoTMQomSegHaHa?pid=ImgDet&rs=1" }
+]
