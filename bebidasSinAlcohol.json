@@ -1,0 +1,6 @@
+[
+    { "id": 41, "bebida": "Agua", "precio": 100, "imagen": "https://statics.dinoonline.com.ar/imagenes/full_600x600_ma/3040004_f.jpg" },
+    { "id": 42, "bebida": "Jugo", "precio": 150, "imagen": "https://th.bing.com/th/id/OIP.tBBdDAcozti2lU5dgEqXCAHaHa?pid=ImgDet&rs=1" },
+    { "id": 43, "bebida": "Gaseosa", "precio": 180, "imagen": "https://www.pizzsavoy.com/118-large_default/coca-cola-2-litros.jpg" },
+    { "id": 44, "bebida": "Energizante", "precio": 85, "imagen": "https://www.distribuidorabebidas.com.uy/wp-content/uploads/sites/31/2019/11/SPEED-980x980.jpg" }
+]
